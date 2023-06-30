@@ -1,0 +1,26 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "avatar.arreferenceimage"
+    },
+    {
+      "filename" : "diplo.arreferenceimage"
+    },
+    {
+      "filename" : "horario.arreferenceimage"
+    },
+    {
+      "filename" : "swi.arreferenceimage"
+    },
+    {
+      "filename" : "swift.arreferenceimage"
+    },
+    {
+      "filename" : "xcode.arreferenceimage"
+    }
+  ]
+}
