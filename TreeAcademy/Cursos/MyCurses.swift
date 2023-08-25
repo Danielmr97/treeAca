@@ -14,7 +14,6 @@ class MyCouses: UIViewController {
     private let descriptions = "En este curso podras aprender desde nivel basico hasta avanzado"
     private let myCellHeight = UIScreen.main.bounds.height/5
     private let myCellWidth = UIScreen.main.bounds.width/3
-    print(myCourses)
     override func viewDidLoad() {
         super.viewDidLoad()
        // collectionview = UICollectionView
